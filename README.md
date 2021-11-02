@@ -1,4 +1,10 @@
 # Getting Started with Create React App
+A mathematics website for students studying for GCSE's, iGCSE's, A-levels and AS-levels. 
+
+
+
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
